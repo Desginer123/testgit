@@ -15,7 +15,6 @@
 </head>
 
 <body>
-  <header class="header flex" id="header">
 
    <a href="/index.html" class="header__link">
 
