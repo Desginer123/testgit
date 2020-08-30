@@ -30,7 +30,7 @@
 </header>
   <!-- WRITE CODE HERE -->
   <section class="promo">
-  ++++
+
     <div class="container">
     <button class="bvi"><?php echo do_shortcode('[FTVI]');?></button>
 
